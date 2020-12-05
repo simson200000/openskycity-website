@@ -1,0 +1,42 @@
+def test_hello(wow: str) -> str:
+    return wow
+
+
+
+
+<!DOCTYPE html>
+<html>
+<title>Open Sky City</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body class="w3-black">
+
+<div class="w3-display-container">
+  <img src= https://cdn.discordapp.com/attachments/784341729091256362/784345376877445150/OpenSkyCity.png style="width:100%;height:600px">
+  <div class="w3-display-middle w3-large">
+ 
+  </div>
+   <div class="w3-display-bottomright w3-container">
+      <p class="w3-text-white w3-xlarge"></p>
+   </div>
+</div>
+
+<div class="w3-container w3-deep-orange w3-large w3-padding-16" style="margin-right:10%">
+  <p><span class="w3-xlarge">Open Sky City</span> ultimate Goal Being a good local government or governor.</p>
+</div>
+<div class="w3-container w3-deep-purple w3-large w3-padding-16" style="margin-left:10%">
+  <p> <span class="w3-xlarge">Open Sky City</span> is free to play on android ios and pc</p>
+</div>
+
+<div style="width:50%">
+  <div class="w3-container w3-blue w3-large w3-padding-16">
+  <p><span class="w3-xlarge">Open Sky City</span> this game is gona get released after some time</p>
+  </div>
+  <div class="w3-display-container">
+    <img src="" style="width:100%">
+  </div>
+</div>
+Open Sky City© 2020 - 2020 by Open Sky City Development Team 
+
+</body>
+</html>
